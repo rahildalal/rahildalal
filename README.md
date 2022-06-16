@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahildalal
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Front-End projects..
 - 📫 How to reach me ...rahildalal3@gmail.com
 
